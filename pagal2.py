@@ -1,4 +1,4 @@
-input(a)
-intput(b)
+a=input()
+b=input()
 
 print(a+b)
